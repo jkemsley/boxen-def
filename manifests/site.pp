@@ -72,8 +72,16 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
-  #Other
-  include spotify 
+  #productivity
+  include alfred
+  include wunderlist
+
+  #media
+  include spotify
+  include vlc
+
+  #other
+  include flux
 
   # common, useful packages
   package {
