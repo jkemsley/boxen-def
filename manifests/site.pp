@@ -76,6 +76,8 @@ node default {
   include alfred
   include wunderlist
   include virtualbox
+  include vagrant
+
   include dropbox
   
   #editors

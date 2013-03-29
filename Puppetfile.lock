@@ -99,6 +99,11 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-vagrant
+  specs:
+    vagrant (2.0.3)
+
+GITHUBTARBALL
   remote: boxen/puppet-virtualbox
   specs:
     virtualbox (1.0.1)
@@ -151,6 +156,7 @@ DEPENDENCIES
   stdlib (= 3.0.0)
   sublime_text_2 (= 1.1.0)
   sudo (= 1.0.0)
+  vagrant (= 2.0.3)
   virtualbox (= 1.0.1)
   vlc (= 1.0.0)
   wunderlist (= 1.0.0)

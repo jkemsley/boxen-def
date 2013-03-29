@@ -35,6 +35,7 @@ github "osx", 			"1.0.0"
 github "alfred",   		"1.0.1"
 github "wunderlist",    "1.0.0"
 github "virtualbox", 	"1.0.1"
+github "vagrant",		"2.0.3"
 github "dropbox",		"1.1.0"
 
 github "sublime_text_2","1.1.0"
