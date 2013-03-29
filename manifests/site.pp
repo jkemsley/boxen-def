@@ -75,6 +75,19 @@ node default {
   #productivity
   include alfred
   include wunderlist
+  include virtualbox
+  include dropbox
+  
+  #editors
+  include sublime_text_2
+
+  #browsers
+  include chrome
+  include firefox
+
+  #terminal
+  include iterm2::stable
+  include zsh
 
   #media
   include spotify

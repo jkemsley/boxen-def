@@ -30,9 +30,20 @@ github "nvm",      		"1.0.0"
 github "ruby",     		"3.1.0"
 github "stdlib",   		"3.0.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",     		"1.0.0"
+github "osx", 			"1.0.0"
 
 github "alfred",   		"1.0.1"
-github "wunderlist",   	"1.0.0"
+github "wunderlist",    "1.0.0"
+github "virtualbox", 	"1.0.1"
+github "dropbox",		"1.1.0"
+
+github "sublime_text_2","1.1.0"
+
+github "chrome",	    "1.1.0"
+github "firefox",	    "1.0.5"
+
+github "iterm2", 		"1.0.2"
+github "zsh",			"1.0.0"
 
 github "spotify",  		"1.0.0"
 github "vlc",	   		"1.0.0"
