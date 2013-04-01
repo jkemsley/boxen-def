@@ -37,6 +37,7 @@ github "wunderlist",    "1.0.0"
 github "virtualbox", 	"1.0.1"
 github "vagrant",		"2.0.3"
 github "dropbox",		"1.1.0"
+github "lastpass",         "1.0.0", :repo => "dieterdemeyer/puppet-lastpass"
 
 github "sublime_text_2","1.1.0"
 
@@ -50,6 +51,7 @@ github "spotify",  		"1.0.0"
 github "vlc",	   		"1.0.0"
 
 github "flux",	   		"0.0.1"
+github "unarchiver",       "1.0.0", :repo => "dieterdemeyer/puppet-unarchiver"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

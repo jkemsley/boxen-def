@@ -77,8 +77,8 @@ node default {
   include wunderlist
   include virtualbox
   include vagrant
-
   include dropbox
+  include lastpass
   
   #editors
   include sublime_text_2
@@ -97,6 +97,7 @@ node default {
 
   #other
   include flux
+  include unarchiver
 
   # common, useful packages
   package {
