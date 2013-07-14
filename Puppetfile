@@ -38,6 +38,7 @@ github "virtualbox", 	"1.0.1"
 github "vagrant",		"2.0.3"
 github "dropbox",		"1.1.0"
 github "lastpass",         "1.0.0", :repo => "dieterdemeyer/puppet-lastpass"
+github "sequel_pro",       "0.1.0", :repo => "todd/puppet-sequel_pro"
 
 github "sublime_text_2","1.1.0"
 

@@ -79,6 +79,7 @@ node default {
   include vagrant
   include dropbox
   include lastpass
+  include sequel_pro
   
   #editors
   include sublime_text_2

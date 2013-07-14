@@ -143,6 +143,11 @@ GITHUBTARBALL
   specs:
     stdlib (3.0.0)
 
+GITHUBTARBALL
+  remote: todd/puppet-sequel_pro
+  specs:
+    sequel_pro (0.1.0)
+
 DEPENDENCIES
   alfred (= 1.0.1)
   boxen (= 1.2.0)
@@ -163,6 +168,7 @@ DEPENDENCIES
   nvm (= 1.0.0)
   osx (= 1.0.0)
   ruby (= 3.1.0)
+  sequel_pro (= 0.1.0)
   spotify (= 1.0.0)
   stdlib (= 3.0.0)
   sublime_text_2 (= 1.1.0)
